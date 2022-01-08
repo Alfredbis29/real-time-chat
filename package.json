@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Alfredbis29/real-time-chat/issues"
   },
-  "homepage": "https://github.com/Alfredbis29/real-time-chat#readme"
+  "homepage": "https://github.com/Alfredbis29/real-time-chat#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.12"
+  }
 }
